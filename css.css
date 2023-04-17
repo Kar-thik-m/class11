@@ -1,0 +1,43 @@
+body {background-color: rgb(248, 239, 227);
+}
+.box-long{
+    background-color:rgb(78, 77, 78);
+    padding:0px 710px 30px 600px;
+    position: relative;
+    right: 100px;
+    color: white;
+}
+.fa{
+    position: absolute;
+    left: 100px;
+    color: white;
+}
+.box-inside{
+    background-color:  rgb(61, 60, 60);
+    padding: 250px 5px;
+    margin: 20px 10px;
+    border-radius: 10%;
+}
+.box-inside1{
+    background-color:   rgb(61, 60, 60);
+    padding: 20px 5px;
+    margin: 20px 10px;
+    border-radius: 5%;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    
+}
+.box-inside2{
+    background-color:    rgb(61, 60, 60);
+    padding: 50px 70px;
+    margin: 80px;
+    border-radius: 10%;
+    
+}
+.box-inside3{
+    background-color:   rgb(61, 60, 60);
+    padding: 70px 200px;
+    margin: 50px;
+    border-radius: 6%;
+    
+}
